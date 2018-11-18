@@ -1,6 +1,0 @@
-Ce répertoire contient des implémentations en C++ des principaux algorithmes pour connaître les composantes fortement connexes dans un graphe orienté, ainsi que différentes applications de ces algorithmes .
-
-Ces codes ont été créés par moi - même, dans un C++ très simple et compréhensible . 
-Ne vous étonnez pas si vous trouvez plus d'applications de l'algorithme de Kosaraju que de clui de Tarjan : plus simple à coder, il a, à mon sens, plus d'applications possibles .
-
-Aussi, je fournis une implémentation de l'algorithme de Tarjan en python :D .
